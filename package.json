@@ -1,0 +1,28 @@
+{
+  "name": "nextjs",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.2.1",
+    "@material-ui/styles": "latest",
+    "axios": "^0.19.0",
+    "clsx": "latest",
+    "konva": "^3.3.3",
+    "next": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-konva": "^16.8.7-3",
+    "react-material-ui-form-validator": "^2.0.9"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-plugin-react": "^7.14.2"
+  }
+}

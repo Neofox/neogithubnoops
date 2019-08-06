@@ -1,0 +1,6 @@
+export const API_REQUEST = "API_REQUEST";
+export const API_SUCCESS = "API_SUCCESS";
+export const API_FAILURE = "API_FAILURE";
+
+export const ADD_DIRECTION = "ADD_DIRECTION";
+export const SET_DIRECTION_CONNECTED = "SET_DIRECTION_CONNECTED";
