@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "neonoops-dev-20190806153338-authRole",
+            "UnauthRoleArn": "arn:aws:iam::066011352742:role/neonoops-dev-20190806153338-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::066011352742:role/neonoops-dev-20190806153338-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "neonoops-dev-20190806153338-deployment",
+            "UnauthRoleName": "neonoops-dev-20190806153338-unauthRole",
+            "StackName": "neonoops-dev-20190806153338",
+            "StackId": "arn:aws:cloudformation:eu-west-1:066011352742:stack/neonoops-dev-20190806153338/cc70b890-b84e-11e9-8eec-062647984902"
+        }
+    }
+}
